@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48e5c78d94b2b40e3bffaeba2f0f9e0f
+timeCreated: 1504349884
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Einwohner: {fileID: 1000010354822854, guid: 47f74d482be864adaa9c79465927b9db,
+      type: 2}
+  - Planet: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

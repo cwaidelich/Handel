@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e0d45a3809602480f9cb43ef59b63e89
+timeCreated: 1504201956
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - backGroundTile: {fileID: 1000012282263282, guid: cf36a3a174a1e42469e546d9dd299446,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

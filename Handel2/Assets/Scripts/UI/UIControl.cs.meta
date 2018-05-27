@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b680351063c2d46898da72e19a779e92
+timeCreated: 1504348223
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BuildingMenu: {instanceID: 0}
+  - WohnungBuilding: {fileID: 1000014112916168, guid: 520bda22227be4a49b18f0d6092b340a,
+      type: 2}
+  - MineBuilding: {fileID: 1000012367246110, guid: 60092a358290d4926863c799b79c8d6f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
